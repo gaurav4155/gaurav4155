@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🎓 Computer Science & Engineering student at BIET Jhansi, India<br>💻 Aspiring Python Developer / Data Engineer<br>🌱 Currently Learning DSA & python
+🎓 Computer Science & Engineering student at BIET Jhansi, India<br>💻 Aspiring Python Developer / Backend Engineer<br>🌱 Currently Learning DSA & python
 
 
 ## 🌐 Socials:
